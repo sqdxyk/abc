@@ -3,6 +3,8 @@
 using namespace std;
 
 int main() {
-	cout << "B hello world" << endl;
+
+	cout << "A hello world, then B hello" << endl;
+
 	return 0;
 }
